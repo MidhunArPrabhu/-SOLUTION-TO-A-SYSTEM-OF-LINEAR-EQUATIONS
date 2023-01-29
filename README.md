@@ -5,8 +5,8 @@
 To write a python program to find a solution to a system of linear equations.
 
 ## EQUIPMENTS REQUIRED :
-1. 	Hardware – PCs  
-2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner  
+- Hardware – PCs  
+-	Anaconda – Python 3.7 Installation / Moodle-Code Runner  
 
 ## ALGORITHM :  
 
@@ -28,7 +28,7 @@ End the program
 
 ## PROGRAM :
 
-
+```python
 #Program to find the solution for the given linear equations.  
 #Developed by: MIDHUN AZHAHU RAJA P  
 #RegisterNumber: 22008311  
@@ -37,7 +37,7 @@ A=np.array([[1,3],[2,5]])
 B=np.array([5,-3])  
 sol=np.linalg.solve(A,B)  
 print(sol)  
-
+```
 ## OUTPUT :
 
 ![Screenshot_20230108_113851](https://user-images.githubusercontent.com/118054670/211192161-4cf6434c-9ebb-4bc4-a0d5-1d5f90da578b.png)
