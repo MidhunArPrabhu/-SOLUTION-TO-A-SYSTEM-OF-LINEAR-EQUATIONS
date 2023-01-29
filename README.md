@@ -1,4 +1,5 @@
-# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# EXPERIMENT-02
+# SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 ## AIM :
 
 To write a python program to find a solution to a system of linear equations.
